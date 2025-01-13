@@ -1,0 +1,51 @@
+
+
+p {
+    color: coral;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bg {
+    /* background-color: yellow;
+    background-image: url(./imagens/Cat-Management-Act-Review-2.webp); */
+
+    background: green url(./imagens/Cat-Management-Act-Review-2.webp) no-repeat right bottom fixed ;
+
+} 
+
+/* .bg-image {
+    width: 830px;
+    height: 570px;
+
+} */
+
+/* .bg-repeat {
+    background-repeat: repeat-x repeat-y;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 1000px;
+} */
+
+/* .bg-size-cover {
+    background-size: cover;
+    height: 570px;
+    width: 830px;
+
+}
+
+.bg-fixed {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 570px;
+    width: 1344px;
+}
+
+.bg-position {
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    height: 870px;
+    width: 1530px;
+} */
+

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    /* list-style-image: url(./Imagens/Untitled\ design\ \(3\).png); */
+    background-color: rgb(102, 0, 255);
+    list-style: square inside url(./Imagens/Captura\ de\ tela\ 2025-01-07\ 215432.png);
+}
+
+ol li {
+    border: 1px solid black;
+    padding: 20px;
+    color: blue;
+}
+
+ol {
+    /* list-style-image: url(./Imagens/Untitled\ design\ \(3\).png); */
+    background-color: rgb(255, 0, 0);
+    list-style: square inside url(./Imagens/Captura\ de\ tela\ 2025-01-07\ 215432.png);
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 20px;
+    color: red;
+}

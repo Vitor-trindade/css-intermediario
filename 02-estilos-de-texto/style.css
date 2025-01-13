@@ -1,0 +1,92 @@
+/* -------------------------------------------------------
+--------------------TEXT ALIGN-------------------------
+------------------------------------------------------- */
+.alinhado-esquerda {
+    text-align: left;
+}
+.alinhado-direita {
+    text-align: right;
+}
+.alinhado-centro {
+    text-align: center;
+}
+
+.alinhado-justificado {
+    text-align: justify;
+}
+ 
+/* ------------------------------------------------------------
+-----------------------TEXT TRANsFORM-----------------------
+------------------------------------------------------------ */
+.maiuscula {
+    text-transform: uppercase;
+} 
+
+.minuscula {
+    text-transform: lowercase;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+
+/* ----------------------------------------------------------------
+-----------------------text decaration--------------------------
+---------------------------------------------------------------- */
+.sublinhado {
+    text-decoration: underline;
+}
+
+.linha-sobreposta {
+    text-decoration: line-through;
+} 
+
+.sem-text-decoration {
+    text-decoration: none;
+}
+
+
+/* ---------------------------------------------------------------------
+------------------sombra de texto------------------------------------
+--------------------------------------------------------------------- */
+.sombra-de-texto {
+    text-shadow: 1px 2px 1px rgba(243, 10, 10, 0.8);
+}
+
+
+
+
+
+
+
+
+
+
+.altura-entre-linhas {
+    line-height: 80px;
+}
+
+.fundo-alinhamento {
+    padding: 20px;
+    background-color: #D1C4E9;
+}
+
+.fundo-transform {
+    padding: 20px;
+    background-color: #c8e6c9;
+}
+
+.fundo-decoration {
+    padding: 20px;
+    background-color: #fff9c4;
+}
+
+.fundo {
+    padding: 20px;
+    background-color: #ccc;
+}
+
+html {
+    font-size: 24px;
+}

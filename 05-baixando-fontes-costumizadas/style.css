@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'milky';
+    src:url(./fontes/milkyroad/milkyroad.otf), url(./fontes/milky_nice/MilkyNice-Clean.otf);
+
+    /* font-family: 'milky-nice';
+    src: url(./fontes/milky_nice/MilkyNice-Clean.otf); */
+}
+ @font-face {
+    font-family: 'milky-nice';
+    src: url(./fontes/milky_nice/MilkyNice-Clean.otf);
+ }
+h1 {
+    font-family: 'milky', Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+p {
+    font-family: 'milky-nice';
+}
