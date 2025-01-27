@@ -1,0 +1,53 @@
+.fa-instagram {
+    color: black;
+    font-size: 30px;
+} 
+
+.fa-instagram:hover {
+    color: purple;
+}
+
+.fa-facebook {
+    color: black;
+    font-size: 30px;
+}
+
+.fa-facebook:hover {
+    color: blue
+}
+
+.fa-css3-alt {
+    color: black;
+    font-size: 30px;
+}
+
+.fa-css3-alt:hover {
+    color: rgb(19, 176, 249);
+}
+
+.fa-js {
+    color: black;
+    font-size: 30px;
+}
+
+.fa-js:hover {
+    color: yellow;
+}
+
+.fa-html5 {
+    color: black;
+    font-size: 30px;
+}
+
+.fa-html5:hover {
+    color: red;
+}
+
+.fa-git-alt {
+    color: black;
+    font-size: 30px;
+}
+
+.fa-git-alt:hover {
+    color: green;
+}
